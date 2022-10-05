@@ -1,0 +1,16 @@
+
+heading, title, author, publisher, year, length, edition, price {
+    display : block;
+    text-align: center;
+    background-color: aqua;
+}
+songs {
+    padding: 20px;
+}
+title {
+    font-size : 25px;
+    font-weight : bold;
+}
+
+
+
